@@ -185,6 +185,7 @@ I'm open to discussing **AI engineering**, **system architecture**, or **interes
 <div align="center">
 
 | 📧 Email | 💼 LinkedIn |
+
 | [amahfuj.cse@gmail.com](mailto:amahfuj.cse@gmail.com) | [Abdullah Al Mahfuj](https://linkedin.com/in/abdullah_al_mahfuj) |
 
 </div>
