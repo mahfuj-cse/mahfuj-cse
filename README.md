@@ -62,6 +62,33 @@ class AbdullahAlMahfuj:
 </div>
 
 <br/>
+### 🎓 Hasanah Olympiad — Online Olympiad Platform *(Jan 2026 – Present)*
+**Role: Backend Engineer (FastAPI) & Full-Stack Contributor** &nbsp;|&nbsp; **Type: Part-time** &nbsp;|&nbsp; 🔗 [hasanaholympiad.com](https://hasanaholympiad.com)
+ 
+> An end-to-end online olympiad platform — registration, olympiad & exam creation, question banks, submissions, scoring, and a full admin back-office.
+ 
+**What I built & contributed:**
+ 
+- 🔐 **Auth & user management** — registration/login (email & phone), OTP verification, password reset/change, separate admin auth, and profile photo uploads
+- 🏆 **Olympiad management** — CRUD for olympiads, multi-round support, group-based organization, enrollment flow, and an admin-side leaderboard
+- 📝 **Question bank** — question CRUD with MCQ options, topic/type categorization, and admin question sets
+- 🧪 **Exam & submission engine** — exam start flow, attempt tracking, answer submission & final submit, and float-based scoring with expelled-status handling
+- 🎯 **Grade system** — grade CRUD & grade types for organizing olympiads by class/level
+- 🔔 **Notifications** — rule-based, template-driven notifications (email/SMS) with trigger processing
+- 🛠️ **Admin tooling** — contact form intake, trace/audit logging for admin actions, and health-check monitoring endpoints
+- ⚛️ **Frontend (Next.js)** — contributed features and fixes on the frontend as part of full-stack delivery
+- 🏗️ **Architecture** — layered route → service → repository pattern on **FastAPI**, **Tortoise ORM (PostgreSQL)**, **Redis** caching, and **AWS S3** file storage
+<div align="center">
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-Frontend-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-Storage-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+![Part--time](https://img.shields.io/badge/Part--time-Jan_2026_--_Present-22c55e?style=flat-square)
+ 
+</div>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
