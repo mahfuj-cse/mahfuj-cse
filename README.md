@@ -63,6 +63,34 @@ class AbdullahAlMahfuj:
 
 <br/>
 
+### 📰 PressRisk / CTFN — Financial Intelligence & M&A Research Platform *(2022 – 2026)*
+**Role: Full-Stack Engineer (Laravel/PHP)** &nbsp;|&nbsp; **Type: Long-term Part-time**
+
+> A financial intelligence platform for M&A news, shareholder activism, regulatory tracking, SEC filings, and analyst research — used by subscribers for search, alerts, newsletters, and a Bloomberg-style command palette powered by RAG.
+
+**What I built & contributed (2022 – 2026):**
+
+- 🔎 **Search & discovery** — full-text article/news search, author search, pagination, date-based sorting, and hybrid relevance ranking with recency tie-breaking
+- 🧩 **Command palette (V1)** — a searchable, sidebar-scoped quick-search UI with client-side filters (scope, time presets), animated skeleton loaders, and response caching for fast repeat queries
+- 🤖 **AI Chatbot & RAG pipeline (2026)** — designed and shipped a Retrieval-Augmented Generation system: a `RagApiService` integration layer, admin-editable RAG prompt templates with version history, a relevance filter for suggestion results, and a Weaviate-backed vector search sync pipeline
+- 🧙 **"Wizard" AI assistant widget** — an embeddable chat widget authenticated via Laravel-signed JWTs, with hardened token refresh/retry handling and graceful fallback to login on non-recoverable auth failures
+- 🚦 **Per-user & global AI feature flags** — toggles for Wizard access, Advanced AI, and vector search, plus admin UI subtitles/help text explaining each toggle's behavior
+- 🗂️ **Admin tooling** — RAG prompt editor (CRUD + version history) in the Laravel admin panel, subscriber activity logging, and permission/role management (Spatie permissions)
+- 🧵 **Content pipeline** — merged-suggestion sorting by publish time, active-situation/story grouping, and email newsletter template work
+- 🐳 **Infra & tooling** — Dockerized local/staging environment (Docker Compose, Laravel Sail) and CI-friendly build cleanup (stopped tracking compiled assets)
+
+<div align="center">
+
+![Laravel](https://img.shields.io/badge/Laravel-Backend-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Chatbot_%26_Vector_Search-FF6F61?style=flat-square)
+![Weaviate](https://img.shields.io/badge/Weaviate-Vector_DB-2F1B5E?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-Signed_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Local_%26_Staging-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Part--time](https://img.shields.io/badge/Part--time-2022_--_2026-22c55e?style=flat-square)
+
+</div>
+
+
 ### 🎓 Hasanah Olympiad — Online Olympiad Platform *(Jan 2026 – Present)*
 **Role: Backend Engineer (FastAPI) & Full-Stack Contributor** &nbsp;|&nbsp; **Type: Part-time** &nbsp;|&nbsp; 🔗 [hasanaholympiad.com](https://hasanaholympiad.com)
  
