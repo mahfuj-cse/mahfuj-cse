@@ -90,9 +90,6 @@ class AbdullahAlMahfuj:
 
 </div>
 
-
-<br/>
-## 🌟 Featured Work
  
 ### 🧠 ErgoMed — AI Document Intelligence & Meeting Q&A Platform *(Dec 2025 – Present)*
 **Role: Full-Stack AI Engineer** &nbsp;|&nbsp; **Type: Part-time**
@@ -108,6 +105,7 @@ class AbdullahAlMahfuj:
 - 🏗️ **Backend architecture** — layered FastAPI (route → service → repository) with Postgres, MongoDB & Redis
 - ⚛️ **Full-stack** — also built frontend features in **Next.js 15 / React 19**, including realtime chat UI & markdown rendering
 <div align="center">
+    
 ![RAG](https://img.shields.io/badge/RAG-LangChain_%2F_LangGraph-1C3C3C?style=flat-square)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-LLM_Engine-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-Vector_DB-FF6B35?style=flat-square)
