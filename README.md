@@ -81,6 +81,7 @@ class AbdullahAlMahfuj:
 - 🏗️ **Architecture** — layered route → service → repository pattern on **FastAPI**, **Tortoise ORM (PostgreSQL)**, **Redis** caching, and **AWS S3** file storage
 
 <div align="center">
+    
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-Frontend-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white)
