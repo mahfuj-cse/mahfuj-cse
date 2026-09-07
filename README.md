@@ -91,6 +91,34 @@ class AbdullahAlMahfuj:
 </div>
 
 
+<br/>
+## 🌟 Featured Work
+ 
+### 🧠 ErgoMed — AI Document Intelligence & Meeting Q&A Platform *(Dec 2025 – Present)*
+**Role: Full-Stack AI Engineer** &nbsp;|&nbsp; **Type: Part-time**
+ 
+> A RAG-powered platform that turns documents and meetings into searchable, queryable knowledge — upload → extract → chunk → embed → retrieve → answer, with real-time streaming.
+ 
+**What I built:**
+ 
+- 🔍 **RAG pipeline** — document extraction (Azure Document Intelligence), chunking, embeddings, and retrieval via **Weaviate** vector DB, orchestrated with **LangChain / LangGraph**
+- 🤖 **LLM Q&A engine** — contextual chat, summarization & meeting action-items powered by **Azure OpenAI**
+- ⚡ **Async background pipelines** — Taskiq + Redis-driven jobs for the full extract-to-index flow
+- 📡 **Realtime delivery** — WebSocket + SSE streaming for progressive LLM responses
+- 🏗️ **Backend architecture** — layered FastAPI (route → service → repository) with Postgres, MongoDB & Redis
+- ⚛️ **Full-stack** — also built frontend features in **Next.js 15 / React 19**, including realtime chat UI & markdown rendering
+<div align="center">
+![RAG](https://img.shields.io/badge/RAG-LangChain_%2F_LangGraph-1C3C3C?style=flat-square)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-LLM_Engine-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-Vector_DB-FF6B35?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-Frontend-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Part--time](https://img.shields.io/badge/Part--time-Dec_2025_--_Present-22c55e?style=flat-square)
+ 
+</div>
+<br/>
+
+
 ### 🎓 Hasanah Olympiad — Online Olympiad Platform *(Jan 2026 – Present)*
 **Role: Backend Engineer (FastAPI) & Full-Stack Contributor** &nbsp;|&nbsp; **Type: Part-time** &nbsp;|&nbsp; 🔗 [hasanaholympiad.com](https://hasanaholympiad.com)
  
