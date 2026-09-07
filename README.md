@@ -114,8 +114,34 @@ class AbdullahAlMahfuj:
 ![Part--time](https://img.shields.io/badge/Part--time-Dec_2025_--_Present-22c55e?style=flat-square)
  
 </div>
+
 <br/>
 
+### 🏠 NexusRE — MCP Toolset for a Real Estate Platform *(Jun – Jul 2026)*
+**Role: MCP / Backend Engineer** &nbsp;|&nbsp; **Duration: 2 months** &nbsp;|&nbsp; **Multi-tenant SaaS**
+ 
+> A suite of schema-defined **MCP tools** that let an LLM search, analyze, and report on real-estate data — property search to comparative market analysis to performance analytics, each callable like a native ChatGPT-style tool.
+ 
+**What I built:**
+ 
+- 🔌 **MCP server exposing tools & API** — the same tool suite is callable from ChatGPT, Claude, or any MCP client, as well as our own custom chat UI, without separate integrations per client
+- 🔐 **OAuth-secured MCP layer** — authenticated, authorized tool access before any tool call is executed
+- 🧠 **RAG-backed tool calls** — select MCP tools query a RAG pipeline underneath for grounded, context-aware answers instead of relying on the model alone
+- 🔐 **Role-based access control at the MCP layer** — gateway-verified user roles resolved against an entitlements table, so each role only sees/can call its permitted tools
+- 🔭 **Distributed tracing** — OpenTelemetry instrumentation on every tool call, propagating W3C traceparent/baggage from the MCP server through backend services for full request-level observability across tenants
+<div align="center">
+    
+![MCP](https://img.shields.io/badge/MCP-Tool_Suite-F97316?style=flat-square&logo=anthropic&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-Secured_Access-4285F4?style=flat-square)
+![RESO API](https://img.shields.io/badge/RESO_Web_API-Real_Estate-6C47FF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Grounded_Answers-8B5FBF?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-Role--Based_Access-EF4444?style=flat-square)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Distributed_Tracing-425CC7?style=flat-square)
+![Multi--tenant](https://img.shields.io/badge/Multi--tenant-SaaS-22c55e?style=flat-square)
+ 
+</div>
+
+<br/>
 
 ### 🎓 Hasanah Olympiad — Online Olympiad Platform *(Jan 2026 – Present)*
 **Role: Backend Engineer (FastAPI) & Full-Stack Contributor** &nbsp;|&nbsp; **Type: Part-time** &nbsp;|&nbsp; 🔗 [hasanaholympiad.com](https://hasanaholympiad.com)
