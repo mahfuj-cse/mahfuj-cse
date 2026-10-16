@@ -1,14 +1,15 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abdullah%20Al%20Mahfuj&fontSize=48&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b2a22,50:0f5c45,100:4a2c8f&text=Abdullah%20Al%20Mahfuj&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Software%20Architect%20%C2%B7%20AI%20%26amp%3B%20Backend%20Engineer&descSize=19&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Architect+%7C+7%2B+Years+Experience;AI+%26+Backend+Engineer;Building+RAG+Systems+%26+AI+Agents;DevOps+%26+Automation+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=12E29A&center=true&vCenter=true&width=640&lines=Software+Architect+%C2%B7+7%2B+Years+Experience;AI+%26+Backend+Engineer;RAG+Pipelines+%C2%B7+AI+Agents+%C2%B7+MCP+Servers;Scalable+Backends%2C+Architecture+to+Production)](https://dev-mahfuj.netlify.app)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amahfuj.cse@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev--mahfuj.netlify.app-0F7B5A?style=for-the-badge&logo=netlify&logoColor=white)](https://dev-mahfuj.netlify.app) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amahfuj.cse@gmail.com)
+
 </div>
 
 <br/>
@@ -21,6 +22,7 @@ class AbdullahAlMahfuj:
         self.role       = "Software Architect | AI & Backend Engineer"
         self.experience = "7+ years"
         self.location   = "Bangladesh 🇧🇩"
+        self.portfolio  = "https://dev-mahfuj.netlify.app"
         self.focus      = ["AI Agents & RAG Systems", "Scalable Backend Architecture",
                            "Automation & DevOps"]
 
@@ -30,16 +32,17 @@ class AbdullahAlMahfuj:
 
 - 🏗️ **Software Architect** — designing scalable, maintainable systems end to end
 - 🤖 **AI Engineer** — building RAG pipelines, chatbots & autonomous agents with **LangChain** and **PydanticAI**, plus custom **MCP servers & clients** for tool-augmented LLM workflows
-- 🌐 **Recently (2024–2025):** architected & built the full backend for a US-based social media platform — [Capsle Stories](https://capslestories.com)
+- 🌐 **Since 2024:** architecting & building the full backend for a US-based social media platform — [Capsle Stories](https://capslestories.com)
 - ⚙️ **Automation-first mindset** — workflow tooling, CI/CD, and infrastructure as code
 - 🌱 Currently exploring **multi-agent orchestration** and **LLM evaluation systems**
+- 🗂️ Full case studies, architecture diagrams & engineering approach → **[dev-mahfuj.netlify.app](https://dev-mahfuj.netlify.app)**
 
 <br/>
 
 ## 🌟 Featured Work
 
-### 📱 Capsle Stories — Social Storytelling Platform *(2024 – 2025)*
-**Role: Backend & System Architect** &nbsp;|&nbsp; **Client: USA 🇺🇸** &nbsp;|&nbsp; 🔗 [capslestories.com](https://capslestories.com)
+### 📱 Capsle Stories — Social Storytelling Platform *(2024 – Present)*
+**Role: Backend & System Architect** &nbsp;|&nbsp; **Client: USA 🇺🇸** &nbsp;|&nbsp; 🔗 [capslestories.com](https://capslestories.com) &nbsp;|&nbsp; 📖 [Case study](https://dev-mahfuj.netlify.app/project/capsle-stories)
 
 > A family-focused social media platform for capturing and preserving life stories — with the full feature set of a modern social app: video recording, streaming & downloads, comments, reactions, SMS invites, and real-time notifications.
 
@@ -58,17 +61,18 @@ class AbdullahAlMahfuj:
 ![Video](https://img.shields.io/badge/Video-Streaming_%26_Storage-FF6F61?style=flat-square)
 ![Realtime](https://img.shields.io/badge/Realtime-Notifications_%26_SMS-8B5FBF?style=flat-square)
 ![Social](https://img.shields.io/badge/Social-Comments_%26_Sharing-22c55e?style=flat-square)
+![Active](https://img.shields.io/badge/Active-2024_--_Present-22c55e?style=flat-square)
 
 </div>
 
 <br/>
 
-### 📰 PressRisk / CTFN — Financial Intelligence & M&A Research Platform *(2022 – 2026)*
-**Role: Full-Stack Engineer (Laravel/PHP)** &nbsp;|&nbsp; **Type: Long-term Part-time**
+### 📰 PressRisk / CTFN — Financial Intelligence & M&A Research Platform *(2022 – Present)*
+**Role: Full-Stack Engineer (Laravel/PHP)** &nbsp;|&nbsp; **Client: USA 🇺🇸** &nbsp;|&nbsp; **Type: Long-term Part-time** &nbsp;|&nbsp; 📖 [Case study](https://dev-mahfuj.netlify.app/project/pressrisk-ctfn)
 
 > A financial intelligence platform for M&A news, shareholder activism, regulatory tracking, SEC filings, and analyst research — used by subscribers for search, alerts, newsletters, and a Bloomberg-style command palette powered by RAG.
 
-**What I built & contributed (2022 – 2026):**
+**What I built & contributed (2022 – Present):**
 
 - 🔎 **Search & discovery** — full-text article/news search, author search, pagination, date-based sorting, and hybrid relevance ranking with recency tie-breaking
 - 🧩 **Command palette (V1)** — a searchable, sidebar-scoped quick-search UI with client-side filters (scope, time presets), animated skeleton loaders, and response caching for fast repeat queries
@@ -86,51 +90,54 @@ class AbdullahAlMahfuj:
 ![Weaviate](https://img.shields.io/badge/Weaviate-Vector_DB-2F1B5E?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-Signed_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Local_%26_Staging-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Part--time](https://img.shields.io/badge/Part--time-2022_--_2026-22c55e?style=flat-square)
+![Active](https://img.shields.io/badge/Active-2022_--_Present-22c55e?style=flat-square)
 
 </div>
 
- 
-### 🧠 ErgoMed — AI Document Intelligence & Meeting Q&A Platform *(Dec 2025 – Present)*
-**Role: Full-Stack AI Engineer** &nbsp;|&nbsp; **Type: Part-time**
- 
+<br/>
+
+### 🧠 ErgoMed — AI Document Intelligence & Meeting Q&A Platform *(Dec 2025 – 2026)*
+**Role: Full-Stack AI Engineer** &nbsp;|&nbsp; **Client: USA 🇺🇸** &nbsp;|&nbsp; **Type: Part-time** &nbsp;|&nbsp; 📖 [Case study](https://dev-mahfuj.netlify.app/project/ergomed)
+
 > A RAG-powered platform that turns documents and meetings into searchable, queryable knowledge — upload → extract → chunk → embed → retrieve → answer, with real-time streaming.
- 
+
 **What I built:**
- 
+
 - 🔍 **RAG pipeline** — document extraction (Azure Document Intelligence), chunking, embeddings, and retrieval via **Weaviate** vector DB, orchestrated with **LangChain / LangGraph**
 - 🤖 **LLM Q&A engine** — contextual chat, summarization & meeting action-items powered by **Azure OpenAI**
 - ⚡ **Async background pipelines** — Taskiq + Redis-driven jobs for the full extract-to-index flow
 - 📡 **Realtime delivery** — WebSocket + SSE streaming for progressive LLM responses
 - 🏗️ **Backend architecture** — layered FastAPI (route → service → repository) with Postgres, MongoDB & Redis
 - ⚛️ **Full-stack** — also built frontend features in **Next.js 15 / React 19**, including realtime chat UI & markdown rendering
+
 <div align="center">
-    
+
 ![RAG](https://img.shields.io/badge/RAG-LangChain_%2F_LangGraph-1C3C3C?style=flat-square)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-LLM_Engine-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-Vector_DB-FF6B35?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-Frontend-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Part--time](https://img.shields.io/badge/Part--time-Dec_2025_--_Present-22c55e?style=flat-square)
- 
+![Completed](https://img.shields.io/badge/Completed-Dec_2025_--_2026-64748B?style=flat-square)
+
 </div>
 
 <br/>
 
 ### 🏠 NexusRE — MCP Toolset for a Real Estate Platform *(Jun – Jul 2026)*
-**Role: MCP / Backend Engineer** &nbsp;|&nbsp; **Duration: 2 months** &nbsp;|&nbsp; **Multi-tenant SaaS**
- 
+**Role: MCP / Backend Engineer** &nbsp;|&nbsp; **Client: USA 🇺🇸** &nbsp;|&nbsp; **Duration: 2 months** &nbsp;|&nbsp; **Multi-tenant SaaS** &nbsp;|&nbsp; 📖 [Case study](https://dev-mahfuj.netlify.app/project/nexusre)
+
 > A suite of schema-defined **MCP tools** that let an LLM search, analyze, and report on real-estate data — property search to comparative market analysis to performance analytics, each callable like a native ChatGPT-style tool.
- 
+
 **What I built:**
- 
+
 - 🔌 **MCP server exposing tools & API** — the same tool suite is callable from ChatGPT, Claude, or any MCP client, as well as our own custom chat UI, without separate integrations per client
 - 🔐 **OAuth-secured MCP layer** — authenticated, authorized tool access before any tool call is executed
 - 🧠 **RAG-backed tool calls** — select MCP tools query a RAG pipeline underneath for grounded, context-aware answers instead of relying on the model alone
 - 🔐 **Role-based access control at the MCP layer** — gateway-verified user roles resolved against an entitlements table, so each role only sees/can call its permitted tools
 - 🔭 **Distributed tracing** — OpenTelemetry instrumentation on every tool call, propagating W3C traceparent/baggage from the MCP server through backend services for full request-level observability across tenants
+
 <div align="center">
-    
+
 ![MCP](https://img.shields.io/badge/MCP-Tool_Suite-F97316?style=flat-square&logo=anthropic&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-Secured_Access-4285F4?style=flat-square)
 ![RESO API](https://img.shields.io/badge/RESO_Web_API-Real_Estate-6C47FF?style=flat-square)
@@ -138,18 +145,18 @@ class AbdullahAlMahfuj:
 ![RBAC](https://img.shields.io/badge/RBAC-Role--Based_Access-EF4444?style=flat-square)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Distributed_Tracing-425CC7?style=flat-square)
 ![Multi--tenant](https://img.shields.io/badge/Multi--tenant-SaaS-22c55e?style=flat-square)
- 
+
 </div>
 
 <br/>
 
 ### 🎓 Hasanah Olympiad — Online Olympiad Platform *(Jan 2026 – Present)*
-**Role: Backend Engineer (FastAPI) & Full-Stack Contributor** &nbsp;|&nbsp; **Type: Part-time** &nbsp;|&nbsp; 🔗 [hasanaholympiad.com](https://hasanaholympiad.com)
- 
+**Role: Backend Engineer (FastAPI) & Full-Stack Contributor** &nbsp;|&nbsp; **Type: Part-time** &nbsp;|&nbsp; 🔗 [hasanaholympiad.com](https://hasanaholympiad.com) &nbsp;|&nbsp; 📖 [Case study](https://dev-mahfuj.netlify.app/project/hasanah-olympiad)
+
 > An end-to-end online olympiad platform — registration, olympiad & exam creation, question banks, submissions, scoring, and a full admin back-office.
- 
+
 **What I built & contributed:**
- 
+
 - 🔐 **Auth & user management** — registration/login (email & phone), OTP verification, password reset/change, separate admin auth, and profile photo uploads
 - 🏆 **Olympiad management** — CRUD for olympiads, multi-round support, group-based organization, enrollment flow, and an admin-side leaderboard
 - 📝 **Question bank** — question CRUD with MCQ options, topic/type categorization, and admin question sets
@@ -161,14 +168,22 @@ class AbdullahAlMahfuj:
 - 🏗️ **Architecture** — layered route → service → repository pattern on **FastAPI**, **Tortoise ORM (PostgreSQL)**, **Redis** caching, and **AWS S3** file storage
 
 <div align="center">
-    
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-Frontend-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-Storage-FF9900?style=flat-square&logo=amazons3&logoColor=white)
-![Part--time](https://img.shields.io/badge/Part--time-Jan_2026_--_Present-22c55e?style=flat-square)
- 
+![Active](https://img.shields.io/badge/Active-Jan_2026_--_Present-22c55e?style=flat-square)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**➡️ See every project as a full engineering case study — problem, architecture, ownership and result — at [dev-mahfuj.netlify.app](https://dev-mahfuj.netlify.app)**
+
 </div>
 
 <br/>
@@ -268,21 +283,12 @@ End-to-end product development — modern **React/Next.js** & **Vue/Nuxt** front
 
 <div align="center">
 
-<!-- Quick Highlights -->
-![Contributions](https://img.shields.io/badge/Total_Contributions-4%2C260%2B_since_2019-36BCF7?style=for-the-badge&logo=github&logoColor=white)
-![Organizations](https://img.shields.io/badge/Organizations-3-8B5FBF?style=for-the-badge&logo=github&logoColor=white)
-
 ![Achievements](https://img.shields.io/badge/🏆_Achievements-Pull_Shark_×3_·_YOLO_·_Quickdraw_·_Pair_Extraordinaire-22c55e?style=for-the-badge)
 
 <br/>
 
 <!-- Streak (longest streak hidden) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuj-cse&theme=tokyonight&hide_border=true&background=0d1117&hide_longest_streak=true" height="180"/>
-
-<br/><br/>
-
-<!-- Contribution Activity -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuj-cse&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="https://streak-stats.demolab.com/?user=mahfuj-cse&theme=tokyonight&hide_border=true&background=0d1117&hide_longest_streak=true" height="180"/>
 
 </div>
 
@@ -294,9 +300,9 @@ I'm open to discussing **AI engineering**, **system architecture**, or **interes
 
 <div align="center">
 
-| 📧 Email | 💼 LinkedIn |
-
-| [amahfuj.cse@gmail.com](mailto:amahfuj.cse@gmail.com) | [Abdullah Al Mahfuj](https://linkedin.com/in/abdullah_al_mahfuj) |
+| 🌐 Portfolio | 📧 Email | 💼 LinkedIn |
+|:---:|:---:|:---:|
+| [dev-mahfuj.netlify.app](https://dev-mahfuj.netlify.app) | [amahfuj.cse@gmail.com](mailto:amahfuj.cse@gmail.com) | [Abdullah Al Mahfuj](https://linkedin.com/in/abdullah_al_mahfuj) |
 
 </div>
 
@@ -308,6 +314,6 @@ I'm open to discussing **AI engineering**, **system architecture**, or **interes
 
 *"Architecture is about the important stuff. Whatever that is." — Ralph Johnson*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:4a2c8f,50:0f5c45,100:0b2a22&animation=twinkling" width="100%"/>
 
 </div>
