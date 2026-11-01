@@ -302,7 +302,7 @@ I'm open to discussing **AI engineering**, **system architecture**, or **interes
 
 | 🌐 Portfolio | 📧 Email | 💼 LinkedIn |
 |:---:|:---:|:---:|
-| [dev-mahfuj.netlify.app](https://dev-mahfuj.netlify.app) | [amahfuj.cse@gmail.com](mailto:amahfuj.cse@gmail.com) | [Abdullah Al Mahfuj](https://linkedin.com/in/abdullah_al_mahfuj) |
+| [dev-mahfuj.netlify.app](https://dev-mahfuj.netlify.app) | [amahfuj.cse@gmail.com](mailto:amahfuj.cse@gmail.com) | [Abdullah Al Mahfuj](https://www.linkedin.com/in/abdullah-al-mahfuj/) |
 
 </div>
 
